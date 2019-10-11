@@ -4,7 +4,7 @@ This project was written in Python in order to practice web scraping:
 
   - Tracking a certain Amazon prodcut's price throughout the day
   - Sending emails to provided email with updates when the price drops below the desired price
-
+![Screenshot](price.png)
 
 ### Tech
 
